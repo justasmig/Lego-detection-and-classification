@@ -1,0 +1,17 @@
+12 tooth
+16 tooth strong
+24 tooth
+36 tooth
+40 tooth
+6 tooth
+liftarm
+nxt body
+nxt head
+nxt motor
+nxt sensor
+pin axle
+pin long
+pin short
+pulley
+wheel 56mm
+wheel motorcycle

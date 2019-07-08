@@ -1,0 +1,68 @@
+item {
+    id: 1
+    name: '12_tooth'
+}
+item {
+    id: 2
+    name: '16_tooth_strong'
+}
+item {
+    id: 3
+    name: '24_tooth'
+}
+item {
+    id: 4
+    name: '36_tooth'
+}
+item {
+    id: 5
+    name: '40_tooth'
+}
+item {
+    id: 6
+    name: '6_tooth'
+}
+item {
+    id: 7
+    name: 'liftarm'
+}
+item {
+    id: 8
+    name: 'nxt_body'
+}
+item {
+    id: 9
+    name: 'nxt_head'
+}
+item {
+    id: 10
+    name: 'nxt_motor'
+}
+item {
+    id: 11
+    name: 'nxt_sensor'
+}
+item {
+    id: 12
+    name: 'pin_axle'
+}
+item {
+    id: 13
+    name: 'pin_long'
+}
+item {
+    id: 14
+    name: 'pin_short'
+}
+item {
+    id: 15
+    name: 'pulley'
+}
+item {
+    id: 16
+    name: 'wheel_56mm'
+}
+item {
+    id: 17
+    name: 'wheel_motorcycle'
+}

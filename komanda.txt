@@ -1,0 +1,1 @@
+python retrain.py --how_many_training_steps 10000 --flip_left_right --print_misclassified_test_images --image_dir croppedImages --tfhub_module https://tfhub.dev/google/imagenet/mobilenet_v2_100_224/feature_vector/3 --output_graph=retrained/retrainedLego_graph.pb --output_labels=retrained/labels.txt
