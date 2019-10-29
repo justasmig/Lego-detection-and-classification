@@ -18,7 +18,7 @@ Lego parts detection and classification. Developed using OpenCV and Tensorflow
 To meet all dependencies, execute these commands in your Anaconda environment:
 ```
 conda install -c conda-forge opencv
-pip install tensorflow
+pip install tensorflow==1.15.0
             ^^^^^^^^^^ tensorflow-gpu can be used, but setupping will be different
 pip install numpy keyboard
 ```
